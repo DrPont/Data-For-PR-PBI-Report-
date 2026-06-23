@@ -60,7 +60,8 @@ Dozens of advanced banking ratios are built into the report framework using core
 * **Loan Portfolios:** Deep dive into loan allocations by distinct macroeconomic sectors (e.g., Real Estate, Construction, Energy, Trade) and micro-level retail product segments (e.g., Mortgages, Consumer Loans, Payrolls, Credit Cards).
 * **Deposit Structures:** Micro-analysis split by deposit types (Client Deposits, Legal Entities, Individuals, and Non-Bank Financial Institutions).
 
----
+---<img width="822" height="1007" alt="image" src="https://github.com/user-attachments/assets/80c9a5d5-74df-4825-9ed0-8f019ec21ee2" />
+
 
 ## 📸 Sample Visual Matrix (Data Snippet)
 
