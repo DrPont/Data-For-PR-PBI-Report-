@@ -1,4 +1,5 @@
 # 📊 Georgian Banking Market Intelligence Dashboard
+<img width="1544" height="804" alt="image" src="https://github.com/user-attachments/assets/5d584c50-eac2-4a14-8d68-4fab733b7f98" />
 
 An automated, end-to-end Business Intelligence report providing a comprehensive market overview and competitive analysis of the Georgian commercial banking sector. This report relies on regulatory data provided by the **National Bank of Georgia (NBG)** via "Data for PR," tracking sector dynamics from **January 2023 to May 2026**.
 
@@ -75,4 +76,6 @@ Below is an indicative slice of the comparative performance metrics captured dyn
 | **Cost to Income** | 27.32% | 33.89% | 70.32% | 40.43% | 52.27% |
 
 ---
+<img width="802" height="1002" alt="image" src="https://github.com/user-attachments/assets/445bddd0-10b6-4960-aa0b-0aa80e7a2375" />
+
 _Note: This README serves as documentation for the static PDF snapshot version of the live, automated tracking report._
